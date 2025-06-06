@@ -53,9 +53,6 @@ public class SlothNetDev : IJuniorDeveloper
 }
 ```
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlothNetDev&theme=tokyonight" alt="Profile Summary"/>
-</div>
 
 ---
 
@@ -168,7 +165,7 @@ public class SlothNetDev : IJuniorDeveloper
 ## 📈 My Developer Growth Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlothNetDev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=SlothNetDev's%20Coding%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlothNetDev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -176,7 +173,7 @@ public class SlothNetDev : IJuniorDeveloper
 ## 💡 Daily Dose of Developer Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Progress%2C%20not%20perfection.%20Every%20line%20of%20code%20is%20a%20step%20forward&author=Code%20Sloth%20Philosophy" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20difference%20between%20my%20past%20and%20present%20code%20will%20always%20be%20a%20reflection%20of%20my%20growth&author=Code%20Sloth%20Philosophy" alt="Quote" />
 </div>
 
 ---
