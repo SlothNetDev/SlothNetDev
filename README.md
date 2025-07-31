@@ -112,11 +112,28 @@ public class SlothNetDev : IJuniorDeveloper
 
 | 🎯 Project | 📝 What I Built | 🛠️ Tech Stack | 🧠 Key Learning | 🔗 Links |
 |:----------:|:---------------:|:-------------:|:---------------:|:--------:|
-| **📚 BookVault API** | Library management REST API | C#, ASP.NET Core, EF Core, SQL Server | CRUD operations, API design, database relationships | [💻 Code](https://github.com/SlothNetDev/BookVault) |
-| **🏪 SlothMart Backend** | E-commerce API with auth | .NET 6, JWT, Entity Framework | Authentication, authorization, API security | [💻 Code](https://github.com/SlothNetDev/SlothMart) |
-| **💰 ExpenseSloth** | Personal finance tracker | C#, Console App, File I/O | OOP principles, data persistence, clean code | [💻 Code](https://github.com/SlothNetDev/ExpenseSloth) |
-| **🎮 AdventureSloth** | Text-based RPG game | C#, OOP, Design Patterns | Game logic, state management, inheritance | [💻 Code](https://github.com/SlothNetDev/AdventureSloth) |
-| **🔐 AuthSloth** | JWT authentication service | ASP.NET Core, IdentityServer | OAuth2, JWT tokens, identity management | [💻 Code](https://github.com/SlothNetDev/AuthSloth) |
+
+
+| **✅ Task Management API** | Task + User CRUD with categories & filtering | .NET 8, EF Core, JWT, Clean Architecture | API fundamentals, auth, filtering, testing | [💻 Code](https://github.com/SlothNetDev/TaskManagement) |
+
+
+<!--
+| **🛍️ Product Catalog API** | E-commerce product catalog with filtering & images | .NET 8, EF Core, Redis, File Upload | Complex relations, caching, file handling | [💻 Code](https://github.com/YourUsername/ProductCatalog.API) |
+-->
+
+<!--
+| **🏦 Banking Transaction System** | Bank accounts, transfers, audit logs | .NET 8, EF Core, Identity, Logging | Transactional integrity, security, rollback | [💻 Code](https://github.com/YourUsername/Banking.API) |
+-->
+
+<!--
+| **💬 Real-time Chat API** | Chat system with SignalR & groups | .NET 8, SignalR, EF Core | WebSocket, live messaging, chat infra | [💻 Code](https://github.com/YourUsername/Chat.API) |
+-->
+
+<!--
+| **📰 Blog API (Expert)** | Blog CMS with tags, roles, reactions | .NET 8, EF Core, CQRS, ElasticSearch | CQRS, versioning, search, SEO, scaling | [💻 Code](https://github.com/YourUsername/Blog.API) |
+-->
+
+
 
 *🚧 More awesome projects brewing in my coding lab!*
 
@@ -176,28 +193,6 @@ public class SlothNetDev : IJuniorDeveloper
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20difference%20between%20my%20past%20and%20present%20code%20will%20always%20be%20a%20reflection%20of%20my%20growth&author=Code%20Sloth%20Philosophy" alt="Quote" />
 </div>
 
----
-
-## 🦥 Life of a Code Sloth - Fun Facts
-
-<div align="center">
-
-| 🎯 | My Developer Reality |
-|:---:|:--------------------|
-| ⏰ | **Peak coding hours:** 6 AM - 9 AM (fresh brain) + 7 PM - 10 PM (night owl mode) |
-| ☕ | **Fuel of choice:** 3-4 cups of coffee + occasional energy drink for tough bugs |
-| 🎮 | **Break activities:** Gaming, YouTube coding tutorials, tech Twitter scrolling |
-| 📚 | **Learning style:** Video tutorials → Official docs → Stack Overflow → Trial & error |
-| 🐛 | **Debugging approach:** Console.WriteLine() detective + stepping through debugger |
-| 🤔 | **Current brain teaser:** "How do async/await patterns actually work under the hood?" |
-| 🎯 | **Next big milestone:** Deploy my first production API to Azure |
-| 💭 | **Daily developer thought:** "This works... but why? Let me understand it better." |
-| 🦥 | **Sloth wisdom:** "Slow and steady debugging wins the race!" |
-
-</div>
-
----
-
 ## 📚 My Learning Arsenal & Current Focus
 
 <div align="center">
@@ -225,47 +220,6 @@ public class SlothNetDev : IJuniorDeveloper
 
 </div>
 
----
-
-## 🤝 Let's Build Something Amazing Together!
-
-<div align="center">
-
-### 🔍 What I'm Looking For:
-- 👥 **Fellow junior developers** to share the learning journey
-- 🧑‍🏫 **Patient mentors** who remember their first "Hello World"
-- 🔍 **Code review buddies** (honest feedback appreciated!)
-- 💡 **Project collaboration** on beginner-friendly open source
-- 🗣️ **Tech communities** where questions are welcomed, not judged
-
-### 💪 How I Can Help You:
-- 🤝 **Beginner solidarity** - I understand the struggle is real
-- 📚 **Learning resources** - sharing what's working for me
-- 💪 **Motivation partner** - let's keep each other coding
-- 🎯 **Accountability buddy** - check in on each other's progress
-- 🧠 **Fresh perspective** - sometimes beginner's mind sees clearly
-
-### 🎯 My 2024 Mission:
-> Build my first production-ready application that helps real users solve real problems
-
-<img src="https://komarev.com/ghpvc/?username=SlothNetDev&label=Fellow%20Developers%20Visited&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## 🌟 The Sloth Philosophy
-
-<div align="center">
-
-*"In a world of fast-paced development, be the sloth who codes with intention.*  
-*Take time to understand, not just implement.*  
-*Every expert was once a beginner who refused to give up.*  
-*Slow and steady wins the code race! 🦥"*
-
-**Let's grow together, one commit at a time! 🌱➡️🌳**
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=fff&text=Thanks%20for%20stopping%20by!%20🦥"/>
