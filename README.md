@@ -10,6 +10,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!--
 ---
 
 ## 🦥 Meet the Code Sloth
@@ -56,7 +57,7 @@ public class SlothNetDev : IJuniorDeveloper
 
 ---
 
-```## 🌐 Connect with This Coding Sloth
+## 🌐 Connect with This Coding Sloth
 
 <div align="center">
 
@@ -66,7 +67,7 @@ public class SlothNetDev : IJuniorDeveloper
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jerviebunagan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-```
+-->
 
 *💬 Always open for a chat about code, coffee, or career advice!*
 
